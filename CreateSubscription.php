@@ -3,7 +3,7 @@
 require_once __DIR__ . '/vendor/autoload.php';
 
 $sandbox = true;
-$api_username = 'warlox414-merchant_api1.gmail.com';
+$api_username = 'war-merchant_api1.gmail.com';
 $api_password = 'Z9VFDKJA2FJQ5DZW';
 $api_signature = 'ALGGHNwYi1b3f.SAFEBGIVyGMKAwAxeOTUcB8qI8ZeSPXiP02XSlsQtG';
 $print_headers = true;
